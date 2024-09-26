@@ -1,0 +1,8 @@
+Número de leitos de internação OK
+Número de médicos OK
+Número de pessoas beneficiadas com o Bolsa Família OK
+Número de pessoas beneficiadas com o Benefício de Prestação Continuada
+Quantidade de pessoas com cobertura de plano de saúde - saúde suplementar
+Número de pessoas registradas nos programas Estratégia de Saúde na Família (eSF) e Equipe de Atenção Primária (eAP)
+PIB do município OK
+População residente
